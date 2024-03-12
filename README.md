@@ -1,2 +1,7 @@
-# Automated-intruder-detection-using-Python
-Save your security maintenance money by simply building your own . Your siblings will be afraid to steal anything from your room. Learn OpenCV, computer vision, motion detection, tracking movement, image processing and so much more
+<h1>Use Python to Build Home Security Camera</h1>
+<br>
+<h2>Inspiration for this build</h2>
+The idea for this particular build started with a spate of package thefts in my neighborhood. I researched various WiFi enabled home security cameras, the average cost of which usually floated in the $100 to $200 range. Since I had a basic knowledge of Python already on hand, I decided to try building my own.
+<h2>modules</h2>
+opencv-python<br>
+winsound
